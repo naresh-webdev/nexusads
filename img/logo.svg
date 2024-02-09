@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="281.04pt" height="281.04pt" viewBox="0 0 281.04 281.04">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1170.8333V1170.8333H0Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M456.62498 360.61665H714.20828V653.32498H456.62498Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M458.9666 361.78749H711.8666V653.32498H458.9666Z" fill-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1170.8333V1170.8333H0Z" fill-rule="evenodd"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.28099997,0,0,.28099997,0,0)" d="M0 0H1000V1000H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.18822676,0,0,.18822676,110.39312,86.54799)" d="M160 64 59 127.73 0 93.31 160 0V64ZM160 186.63V253.28L320 157.28V93.28L160 186.63ZM263.8 245.93001 160 306.57V373.22L320 279.91999V186.61L264 221.27 263.8 245.93001Z" fill="#0b7bad"/>
+</g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(.18747387,0,0,.18747387,110.513538,86.828998)" d="M160 0 320 93.31 262.35 126.94 160 64V0ZM0 279.92 160 373.22004V306.57L56 247.93V194.61L160 253.26001V186.61L0 93.31V279.92Z" fill="#11c1ea"/>
+</g>
+<g clip-path="url(#clip_3)">
+<text fill="#333333" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 152.30199 160.73198)" font-size="110" font-family="Philosopher"><tspan y="95" x="67.21875 120.12874">ad</tspan></text>
+<text fill="#11c1ea" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 67.72099 160.73198)" font-size="110" font-family="Philosopher"><tspan y="95" x="66.453128 141.03311 192.9531 246.63309 305.4831">Nexus</tspan></text>
+<text fill="#615f5f" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 103.969989 189.39398)" font-size="30" font-family="Cambria" font-weight="bold"><tspan y="33" x="0 20.280003 38.190004 51.960004 66.03001 82.08001 91.32001">Upscale</tspan></text>
+<text fill="#615f5f" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 103.969989 189.39398)" font-size="30" font-family="Cambria" font-weight="bold"><tspan y="33" x="107.25001"> </tspan></text>
+<text fill="#615f5f" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 103.969989 189.39398)" font-size="30" font-family="Cambria" font-weight="bold"><tspan y="33" x="113.850009 128.93555 146.00556 163.91556">your</tspan></text>
+<text fill="#615f5f" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 103.969989 189.39398)" font-size="30" font-family="Cambria" font-weight="bold"><tspan y="33" x="177.74556"> </tspan></text>
+<text fill="#615f5f" xml:space="preserve" transform="matrix(.28099997 0 0 .28099997 103.969989 189.39398)" font-size="30" font-family="Cambria" font-weight="bold"><tspan y="33" x="184.34557 202.07556 219.98557 233.75557 243.17557 261.29557 277.22557 290.99555">business</tspan></text>
+</g>
+</g>
+</svg>
